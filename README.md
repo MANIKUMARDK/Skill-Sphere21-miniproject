@@ -1,7 +1,7 @@
 # Skillsphere21 - AI-Powered IDP System 
 
-##Name : Rohith V
-##reg no : 212223040174
+## Name : Manikumar d.k 
+## reg no : 212223230121
 
 ---
 
